@@ -251,7 +251,7 @@ MIT License - feel free to use this project for your own portfolio or learning.
 
 **[essiebx]**
 
-- GitHub: [@yourusername](https://github.com/essiebx)
+- GitHub: [@essiebx](https://github.com/essiebx)
 
 ## 🤝 Contributing
 
